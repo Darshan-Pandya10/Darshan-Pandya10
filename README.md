@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Darshan Pandya and I'm a React Js Developer , from Gujarat , India</p>
+<p align="left">My name is Darshan Pandya and I'm a React Js Developer , from Gujarat , India.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021 <br>📚 I'm currently learning BackEnd Specifically Express JS <br>🎯 Goals: Become Expert In Full Stack Development <br>🎲 Fun fact: </p>
+<p align="left">✨ Creating bugs since 2021 <br>📚 I'm currently learning BackEnd Specifically Express JS <br>🎯 Goals: Become Expert In Full Stack Development <br>🎲 Fun fact: I'm as passionate about coding dynamic websites as I am about football! Whether I'm crafting engaging user interfaces or cheering for my favorite team, I bring the same level of energy and excitement to both worlds.</p>
 
 ###
 
