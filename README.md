@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Darshan Pandya and I'm a React Js Developer , from Gujarat , India.</p>
+<p align="left">My name is Darshan Pandya and I'm a React Js Developer from Gujarat , India.</p>
 
 ###
 
